@@ -124,5 +124,7 @@
     width: 100%;
     flex-direction: column;
     width: 45vh;
+    position:relative;
+    top:13px;
   }
 }
