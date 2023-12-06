@@ -75,6 +75,7 @@
   justify-content: center;
   position: relative;
   bottom: 76px;
+  height: 10vh;
   
 
 
@@ -87,6 +88,7 @@
   bottom: 135px;
   font-family: 'Poppins', sans-serif;
   color: wheat;
+  
 
 }
 
@@ -96,6 +98,7 @@
   height: 5vh;
   position: relative;
   bottom: 200px;
+  margin-bottom: 50px;
 }
 @media screen and (max-width: 768px){
   .geral{
@@ -126,5 +129,3 @@
     width: 45vh;
   }
 }
-
-
