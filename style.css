@@ -102,20 +102,20 @@
 }
 @media screen and (max-width: 768px){
   .geral{
-    width: 100%;
+    
     flex-direction: column;
   }
 }
 @media screen and (max-width: 768px){
   .container{
-    width: 100%;
+   
     flex-direction: column;
   
   }
 }
 @media screen and (max-width: 768px){
   .cell{
-    width: 100%;
+    
     flex-direction: column;
     padding-right: 200px;
     bottom: 100px;
@@ -124,7 +124,7 @@
 }
 @media screen and (max-width: 768px){
   .texto{
-    width: 100%;
+    
     flex-direction: column;
     width: 45vh;
   }
