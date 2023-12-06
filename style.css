@@ -131,7 +131,7 @@
     width: 100%;
     flex-direction: column;
     position:relative;
-    bottom: 15px;
+    top: 15px;
   }
 }
 
