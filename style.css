@@ -124,7 +124,14 @@
     width: 100%;
     flex-direction: column;
     width: 45vh;
-    position:relative;
-    top:13px;
   }
 }
+@media screen and (max-width: 768px){
+  .faixa{
+    width: 100%;
+    flex-direction: column;
+    position:relative;
+    bottom: 15px;
+  }
+}
+
