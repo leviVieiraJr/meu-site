@@ -130,8 +130,7 @@
   .faixa{
     width: 100%;
     flex-direction: column;
-    position:relative;
-    top: 15px;
+   margin-bottom:10px;
   }
 }
 
